@@ -5,7 +5,7 @@ metadata:
   name: app-deployment
   namespace: ykj
 spec:
-  replica: 3
+  repli: 3
   selector:
     matchLabels:
       app: app
